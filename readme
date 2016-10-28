@@ -1,1 +1,2 @@
-hdmi cec logical code in HAL.
+HDMI CEC logical code in HAL.
+And use daemon to manage it.
